@@ -1,0 +1,2 @@
+git has GU user interface as well 
+you can use eidther CLI and GUI it up to you 
