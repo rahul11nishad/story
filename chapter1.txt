@@ -1,0 +1,2 @@
+this is chapter 1 is all about git 
+git  is version control system 
