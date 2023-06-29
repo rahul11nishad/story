@@ -1,2 +1,4 @@
 git has GU user interface as well 
-you can use eidther CLI and GUI it up to you 
+you can use eidther CLI and GUI it up to you
+this is hero chapter 3
+
